@@ -1,0 +1,6 @@
+framework module Pods_MedchatUITests {
+  umbrella header "Pods-MedchatUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
